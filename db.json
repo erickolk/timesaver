@@ -1,0 +1,44 @@
+{
+  "pedidos": [
+    {
+      "id": "1",
+      "nome": "Maria",
+      "telefone": "(11) 98765-4321",
+      "descricao": "Pedido de produto A"
+    },
+    {
+      "id": "2",
+      "nome": "João",
+      "telefone": "(11) 12345-6789",
+      "descricao": "Pedido de produto B"
+    },
+    {
+      "id": "3",
+      "nome": "Ana",
+      "telefone": "(11) 55555-5555",
+      "descricao": "Pedido de produto C"
+    }
+  ],
+  "servicos": [
+    {
+      "id": "1de4",
+      "servico": "Novo serviço",
+      "descricao": "hadgrf8iogfdinasdoçahgsdiads"
+    },
+    {
+      "id": "b5c3",
+      "servico": "ahsdf",
+      "descricao": "asdhjfjgasb"
+    },
+    {
+      "id": "d5d4",
+      "servico": "",
+      "descricao": ""
+    },
+    {
+      "id": "8793",
+      "servico": "",
+      "descricao": ""
+    }
+  ]
+}
